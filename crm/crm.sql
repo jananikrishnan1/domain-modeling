@@ -11,7 +11,7 @@ CREATE TABLE contacts (
     title TEXT,
     email TEXT,
     phone_number TEXT,
-    company_id INTEGER, 
+    company_id , 
     );
 
 CREATE TABLE activity (
